@@ -1,6 +1,3 @@
-# TalentPulse-AI---Employee-attrition-analysis
-College Capstone: Enterprise Employee Attrition &amp; Retention Analytics Platform by Pranav
-
 # 💼 TalentPulse AI — Employee Attrition & Retention Intelligence
 
 ### 🎓 College Capstone & Academic Project Showcase | Developed by **Pranav**
@@ -190,4 +187,3 @@ Open your browser at `http://localhost:8501`.
 ## 📜 License
 
 Created by **Pranav** under the [MIT License](LICENSE). Free for academic and demonstration use.
-
